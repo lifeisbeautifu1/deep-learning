@@ -1,3 +1,3 @@
 ### Just me learning PyTorch
-### Useful Colab Notebooks
+### Useful notebooks with PyTorch fundamentals
 
