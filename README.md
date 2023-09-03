@@ -1,3 +1,4 @@
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/lifeisbeautifu1)
 ## Here's the list of useful notebooks i've created to learn NN/Deep Learning
 The list consist of Google Collab notebooks and some other notebooks i've made from videos/books.
 
