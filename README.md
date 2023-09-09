@@ -9,3 +9,4 @@ The list consist of Google Collab notebooks and some other notebooks i've made f
 * [PyTorch course from Daniel Bourke](https://www.learnpytorch.io/)
 * [Stanford Lectures](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 * [MIT Lectures](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+* [Computerphile](https://www.youtube.com/@Computerphile/featured)
