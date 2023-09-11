@@ -1,6 +1,6 @@
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/lifeisbeautifu1)
-## Here's the list of useful notebooks i've created to learn NN/Deep Learning
-The list consist of Google Collab notebooks and some other notebooks i've made from videos/books.
+## Here's the list of useful notebooks i've created to learn Deep Learning
+This repo consist of Google Collab notebooks i've made from videos/books.
 
 ### List of resources i've used to learn:
 * [Neural Network and Deep Learning book by Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
