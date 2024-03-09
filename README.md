@@ -8,6 +8,7 @@ This repo consist of Google Collab notebooks i've made from videos/books.
 * [Deep Learning book by Ian Goodfellow](https://www.deeplearningbook.org/)
 * [3Blue1Brown NN playlist](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+* [StatQuest](https://www.youtube.com/@statquest)
 * [PyTorch course from Daniel Bourke](https://www.learnpytorch.io/)
 * [TensorFlow course from Daniel Bourke](https://dev.mrdbourke.com/tensorflow-deep-learning/)
 * [Stanford Lectures](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
